@@ -1,0 +1,40 @@
+{
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/bilibili.js"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/migu.js"
+    },
+    {
+      "name": "网易云",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/netease.js"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/qmkg.js"
+    },
+    {
+      "name": "酷我",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/kuwo.js"
+    },
+    {
+      "name": "千千音乐",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/qianqian.js"
+    },
+    {
+      "name": "5sing",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/5sing.js"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/kugou.js"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.0/qq.js"
+    }
+  ]
+}
